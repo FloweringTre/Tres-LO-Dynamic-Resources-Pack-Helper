@@ -1,6 +1,7 @@
 <h2><i>Tre's LO Dynamic Resources Pack Helper</i></h2> 
 <img src="./assets/icon.png" alt="Helper Pack Logo" width="30"/> This new application is designed to make resource packs for DragN's Livestock Overhaul mod. It will also produce a .txt document with summon commands.
 <br><br>
+<strong><i>THIS IS A WORK IN PROGRESS BUILD CURRENTLY!!!!</i></strong>
 This software will produce the resource pack complete with textures (that you select from your computer). 
 <br><br> 
 
