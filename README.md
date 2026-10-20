@@ -10,7 +10,7 @@ Failure to follow this direct instruction will leave your device vunerable to ma
 Only download the official release versions to ensure a working software.</strong></center>
 
 ---------------------------------------------------
-Engine: [Godot 4.5](https://godotengine.org/)<br>
+Engine: [Godot 4.7](https://godotengine.org/)<br>
 Art Software: [Aseprite](https://www.aseprite.org/)<br>
 
 ---------------------------------------------------
@@ -19,6 +19,4 @@ Art Software: [Aseprite](https://www.aseprite.org/)<br>
 <br>
 [Background made by MoonFlower](https://moon-flower-info.carrd.co/)<br>
 [Check out DragN's github - she is the OG maker of the Livestock Overhaul mod!](https://github.com/DragN0007)<br>
-[Get more help with the addeneumumim mod from their wiki](https://peachypixelplace.notion.site/Swem-Addendum-1e118cd14b9280a8b135c9e6dc1e6e15)<br>
-[Join Peachy's discord server for extended troubleshooting.](https://tr.ee/QszY5GItGS)<br>
-Direct Link to the swem-addeneum mod: https://www.curseforge.com/minecraft/mc-mods/swem-addendum
+Direct Link to the Livestock Overhaul mod: https://www.curseforge.com/minecraft/mc-mods/dragns-livestock-overhaul
